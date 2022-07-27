@@ -1,3 +1,27 @@
 .nike-react-banner-bg {
     background-color: #FFF9F4;
 }
+
+.nike-btn {
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+}
+
+.nike-shoe-bg {
+    background-color: #F1F1F1;
+}
+
+.nike-text-orange {
+    color: #FA804C;
+    font-size: 80px;
+    font-weight: 400;
+}
+
+.nike-text-black {
+    color: #363958;
+}
+
+footer {
+    height: 200px;
+}
